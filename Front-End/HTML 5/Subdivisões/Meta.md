@@ -3,8 +3,9 @@
 Abaixo lista das metas mais importantes:
 - **[[charset]]**: Especifica a codificação de caracteres do documento HTML.
 - **[[description]]**: Define uma descrição para o site, utilizado nos motores de busca.
-- **[[keywords]]**: Palavras chaves relacionadas ao site, utilizada nos primórdios pelos motores de busca para melhorar a busca por sites.
+- **[[keywords]]**: Palavras-chave relevantes para o conteúdo da página.
 - **[[author]]**: Identifica o autor do site.
-- **[[robots]]**: ajuda os robôs dos motores de busca a indexar ou não um site. Com esta opção podemos dizer se uma determinada página do site não deve ser mostrada nos resultados de uma busca.
+- **[[robots]]**: Ajuda os robôs dos motores de busca a indexar ou não um site. Com esta opção podemos dizer se uma determinada página do site não deve ser mostrada nos resultados de uma busca.
+- [[Open Graph]]: Protocolo Open Graph, que é utilizado para melhorar a forma como o conteúdo de uma página é compartilhado em redes sociais.
 
 
