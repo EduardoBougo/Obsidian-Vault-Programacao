@@ -7,5 +7,8 @@ Abaixo lista das metas mais importantes:
 - **[[author]]**: Identifica o autor do site.
 - **[[robots]]**: Ajuda os robôs dos motores de busca a indexar ou não um site. Com esta opção podemos dizer se uma determinada página do site não deve ser mostrada nos resultados de uma busca.
 - [[Open Graph]]: Protocolo Open Graph, que é utilizado para melhorar a forma como o conteúdo de uma página é compartilhado em redes sociais.
+- [[revisit-after]]: Especifica a periodicidade recomendada para que os motores de busca revisitem a página para refazer o cache.
+- [[distribution]]: Indica a distribuição global do conteúdo da página.
+
 
 
