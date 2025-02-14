@@ -9,6 +9,7 @@ Abaixo lista das metas mais importantes:
 - [[Open Graph]]: Protocolo Open Graph, que é utilizado para melhorar a forma como o conteúdo de uma página é compartilhado em redes sociais.
 - [[revisit-after]]: Especifica a periodicidade recomendada para que os motores de busca revisitem a página para refazer o cache.
 - [[distribution]]: Indica a distribuição global do conteúdo da página.
+- [[]]
 
 
 
