@@ -26,7 +26,7 @@ O HTML5 é a nova versão padrão do HTML com novas Tags e APIs capazes de inser
 # `<htlm>`
 
 A tag html define o início da sua página, nela podemos adicionar o `lang="pt-br"`definindo a linguagem (português, inglês, espanhol, etc) da página. Este atributo ajuda aos leitores de tela a ler corretamente os textos contidos na página, além dos buscadores poderem identificar o idioma e para que o navegador possa utilizar o dicionário gramatical mais correto.
--  Informa o navegador qual idioma o documento esta escrito.
+A tag `lang="pt-br"` informa o navegador qual idioma o documento esta escrito.
 
 ## [[Conteúdo do HEAD]]
 
