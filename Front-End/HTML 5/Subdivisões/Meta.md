@@ -10,6 +10,7 @@ Abaixo lista das metas mais importantes:
 - [[revisit-after]]: Especifica a periodicidade recomendada para que os motores de busca revisitem a página para refazer o cache.
 - [[distribution]]: Indica a distribuição global do conteúdo da página.
 - [[refresh]]: Indica o tempo de atualização automática da página.
+- [[cache-control]]: Define diretivas para o controle de cache da página.
 
 
 
